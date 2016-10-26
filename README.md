@@ -1,16 +1,12 @@
-��# BRL-CAD-Archer-SplashScreen
-A task created by BRL-CAD during Google Code-in 2014.
+# BRL-CAD Archer Splash Screen
+A [task](https://www.google-melange.com/archive/gci/2014/orgs/brlcad/tasks/5670223239708672.html) created by BRL-CAD during Google Code-in 2014.
 
-##Task Overview
+Please visit the [webpage] (https://maitreyav.github.io/Archer-SplashScreen) showcasing the design and read the [case study](https://www.dropbox.com/s/0d2iuc0mfkpnj9v/case%20study.pdf?dl=0) to know more. Thanks! 
 
-Go
-
-#Thanks
+###Thanks
 
 harman052
-
 Sean
 
-For mentoring me on the task
+For mentoring me on the task.
 
-#License
