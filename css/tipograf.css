@@ -1,5 +1,5 @@
 :root {
-  --base-font-size: 20;
+  --base-font-size: 18;
   --base-font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
   --base-line-height: 1.5;
   --base-font-weight: 400;
@@ -11,7 +11,7 @@
   --max-line-length: 36em;
 }
 
-html {
+a, html {
   color: rgba(0, 0, 0, .8);
   font-weight: var(--base-font-weight);
   font-style: normal;
@@ -23,13 +23,14 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 1;
+  margin-bottom: 0;
   letter-spacing: calc(var(--base-letter-spacing) / 2);
   font-weight: var(--header-font-weight);
   font-family: var(--header-font-family);
   line-height: calc(.8 * var(--base-line-height));
 
 }
+
 
 h1 {
   margin-top: calc(2 * var(--leading-space));
@@ -68,6 +69,9 @@ p {
   letter-spacing: var(--base-letter-spacing);
 }
 
+
+
+
 ul, ol, em {
   margin-top: var(--leading-space);
   margin-bottom: var(--leading-space);
@@ -105,6 +109,8 @@ blockquote {
 code {
   vertical-align: bottom;
 }
+
 footer {
   padding: 0 20px 0;
+  border-top: 1px solid #000;
 }
