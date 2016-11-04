@@ -7,7 +7,8 @@ Checkout  the [design] (https://maitreyav.github.io/Archer-SplashScreen) here.
 
 ##Built with
 * [Tipograf](https://github.com/mightyCrow/tipograf) - Lightweight typography base
-* [Hue CSS](https://github.com/evankarageorgos/hue) - Content backdrop 
+* [Hue CSS](https://github.com/evankarageorgos/hue) - Content backdrop
+* [Animate.css](https://github.com/daneden/animate.css) - Cross-browser animations
 
 ##Acknowledgements
 
