@@ -10,7 +10,6 @@
   --leading-space: calc(var(--base-line-height) * 1rem);
   --max-line-length: 36em;
 }
-
  html {
   color: rgba(0, 0, 0, .8);
   font-weight: var(--base-font-weight);
@@ -21,7 +20,6 @@
   -webkit-font-smoothing: antialiased;
   text-size-adjust: auto;
 }
-
  h2, h3 {
   margin-bottom: 0;
   letter-spacing: calc(var(--base-letter-spacing) / 2);
@@ -30,55 +28,29 @@
   line-height: calc(.8 * var(--base-line-height));
 
 }
-
 h2 {
   margin-top: calc(1.8 * var(--leading-space));
   font-size: calc(2.2 * var(--header-scale) * 1rem);
 }
-
 h3 {
   margin-top: calc(1.1 * var(--leading-space));
   font-size: calc(1.2 * var(--header-scale) * 1rem);
 }
-
-
 p {
   margin-top: var(--leading-space);
   margin-bottom: 0;
   max-width:var(--max-line-length);
   letter-spacing: var(--base-letter-spacing);
 }
-
-
+/* Link effect */
 a.hvr:hover {
   color:#151515 ;
   background-color: #778899 ;
 }
-
-
-
 img {
-  width: 100%;
+  width: 100%; /* Showcase hack */
   background-size: contain;
   position: relative;
-
-
-table {
-  margin-top: var(--leading-space);
-  border-spacing: 0;
-  border-collapse: collapse;
-
-  & td, & th {
-    padding: 0;
-  }
-}
-
-blockquote {
-  margin-top: var(--leading-space);
-  margin-bottom: var(--leading-space);
-
-}
-
 footer {
   min-height:250px;
   height:auto;g
