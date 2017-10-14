@@ -4,8 +4,8 @@ A [task](https://www.google-melange.com/archive/gci/2014/orgs/brlcad/tasks/56702
 
 [![mockup01.jpg](https://s1.postimg.org/9tneppokin/mockup01.jpg)](https://postimg.org/image/3tf8kzeyu3/)
 
-Checkout the [design](https://maitreyav.github.io/Archer-SplashScreen)
-</center>
+Checkout the [design](https://maitreyav.github.io/Archer-SplashScreen).
+
 
 ## Built with
 * [Tipograf](https://github.com/mightyCrow/tipograf) - Lightweight typography base
