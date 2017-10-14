@@ -1,24 +1,30 @@
 # BRL-CAD Archer Splash Screen
+
 A [task](https://www.google-melange.com/archive/gci/2014/orgs/brlcad/tasks/5670223239708672.html) created by BRL-CAD during Google Code-in 2014.
 
-[![mockup01.jpg](https://s17.postimg.org/bzk8gcqyn/mockup01.jpg)](https://postimg.org/image/delt52s1n/)
 
-Checkout  the [design] (https://maitreyav.github.io/Archer-SplashScreen) here.
+Checkout the [design](https://maitreyav.github.io/Archer-SplashScreen)
 
-##Built with
+
+## Built with
 * [Tipograf](https://github.com/mightyCrow/tipograf) - Lightweight typography base
 * [Hue CSS](https://github.com/evankarageorgos/hue) - Content backdrop
 * [Animate.css](https://github.com/daneden/animate.css) - Cross-browser animations
 
-##Acknowledgements
+## Acknowledgements
 
-####Thanks
+#### Thanks
 
-harman052
+Christopher Sean Morrison (brlcad)
 
-Sean
+Harmanpreet Singh (harman052)
+
+ 
 
 For mentoring me on the task.
+
+
+Thanks for reading! Give it a ★ if you liked it.
 
 ## License
 GNU General Public License v3.0
