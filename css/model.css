@@ -1,33 +1,40 @@
-/* Link effect */
-/********* DASHED BOTTOM *********/
-
-.dashed-bottom {
-  border-bottom: 1px dashed #c4c2c2;
-  text-decoration:none;
-}
-
-.dashed-bottom:hover {
-  border-bottom: 2px dashed #c4c2c2;
-  text-decoration:none;
-}
-
-.dashed-bottom.solid:hover {
-  border-bottom: 1px solid #c4c2c2;
-  text-decoration:none;
-}
-
-h1, h3{
-  color: #303030;
-}
-
-
 img {
   width: 100%; /* Showcase hack */
   background-size: contain;
   position: relative;
-
-  footer{
-   color: #d3d3d3;
-  min-height:250px;
-  height:auto;g
 }
+h1, h3{
+  color: #303030;
+}
+p.blocktext {
+  text-align: left;
+}
+
+/* Link effect */
+/********* DASHED BOTTOM *********/
+
+.dashed-bottom {
+  color:#303030;
+  border-bottom: 1px dashed #b0aeae;
+  text-decoration:none;
+}
+.dashed-bottom:hover {
+  color:#607d8b;
+  border-bottom: 2px dashed #b0aeae;
+  text-decoration:bold;
+}
+.dashed-bottom.solid:hover {
+  color:#607d8b;
+  border-bottom: 1px solid #b0aeae;
+  text-decoration:bold;
+}
+.footer {
+  font-size:0.7rem;
+  color:#303030;
+  position: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2rem;
+  text-align: center; 
+  }
