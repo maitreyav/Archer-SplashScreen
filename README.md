@@ -23,7 +23,7 @@ Harmanpreet Singh (harman052)
 For mentoring me on the task.
 
 ## License
-GNU General Public License v3.0
+MIT License
 
 <p align="center">
 <sub>Thanks for reading! Give it a ★ if you liked it.</sub>
